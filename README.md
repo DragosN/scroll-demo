@@ -3,11 +3,11 @@
 Scroll Demo - this shows the problem on **Mac OS**, if you add elements from javascript using a fragment, the scrollbar doesn't appear and the scroll doesn't work,
 
 
-## Install
+## 
 
 project was generated using [chrome extension cli](https://github.com/dutiyesh/chrome-extension-cli) 
 
-## Run it
+## Install and Run
 
 Clone this repository
 ```sh
