@@ -9,10 +9,11 @@ project was generated using [chrome extension cli](https://github.com/dutiyesh/c
 
 ## Run it
 
-Clone this repository 
+Clone this repository
 ```sh
-npm install -g chrome-extension-cli
+git clone https://github.com/DragosN/scroll-demo.git
 cd scroll-demo
+npm install
 npm run watch
 ```
 
